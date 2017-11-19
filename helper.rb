@@ -76,12 +76,10 @@ module Helper
     end
     temp *= temp  
   end
-
-
+  
   private 
 
   def initial_vector
     Vector[0, 0]
   end
-
 end
